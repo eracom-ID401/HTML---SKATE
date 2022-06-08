@@ -13,7 +13,7 @@ body {
 }
 
 .barre-bas {
-  border-bottom: 3px solid rgb(255, 0, 0);
+  border-bottom: 3px solid rgb(0, 0, 0);
   width: 100vw;
   margin-top: 5px;
 }
@@ -58,6 +58,7 @@ img {
   width: 450px;
   height: 576px;
 }
+
 .flex-vin {
   display: flex;
   justify-content: space-between;
