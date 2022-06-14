@@ -7,7 +7,7 @@ body {
 }
 
 .barre-haut {
-  border-top: 3px solid rgba(255, 0, 0, 0.8);
+  border-top: 3px solid rgba(0, 0, 0, 0);
   width: 100vw;
   margin-bottom: 5px;
 }
