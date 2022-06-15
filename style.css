@@ -107,7 +107,7 @@ iframe {
   margin-right: 10px;
 }
 
-.picto:hover {
+.box-3:hover .picto {
   fill: #e2d9d1;
 }
 
