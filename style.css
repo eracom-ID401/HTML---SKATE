@@ -4,7 +4,6 @@ body {
   font-family: "Roboto Mono", monospace;
   margin: 0 100px 0 100px;
   background-color: #e2d9d1;
-  font-weight: bold;
 }
 
 .box-1 {
@@ -119,6 +118,7 @@ a {
 
 a:hover {
   color: #f23030;
+  font-weight: bold;
 }
 
 .center-img {
